@@ -10,7 +10,8 @@ body {
 
 .container {
     background: white;
-    max-width: 80%;
+    opacity: 90%;
+    max-width: 50%;
     margin: auto;
     border: 3px solid black;
     border-radius: 10px;
@@ -36,14 +37,15 @@ button {
     width: 200px;
     margin-bottom: 5px;
     border-radius: 5px;
+    color: lightyellow;
 }
 
 #increment-btn {
-    background: darkred;
+    background: lightgreen;
 }
 
 #save-btn {
-    background: darkgreen;
+    background: lightseagreen;
 }
 
 #clear-btn {
